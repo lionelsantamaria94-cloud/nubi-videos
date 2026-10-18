@@ -5,6 +5,7 @@ Frecuencia acordada: **un video cada 2 días, solo TikTok**, a las **19:00 hora 
 El dueño **aprueba cada video**: siempre programar con `autoPublish: false` (le llega una notificación a la app de Metricool y publica con un toque). Nunca usar `autoPublish: true`.
 
 ## Pasos
+0. Revisar con `getScheduledPosts` de Metricool (blogId 7491431) si ya hay una publicación de TikTok programada para hoy o mañana. Si la hay, no crear otra: terminar y avisar «ya había un video programado».
 1. Elegir tema: el primer elemento de `calendar.json` cuyo `id` no esté en `posted.json`. Si ya se usaron todos, inventar uno nuevo en la misma línea (receta peruana casera, truco de cocina, reto con XP o función de la app) y agregarlo al calendario.
 2. Escribir el guion en `specs/AAAA-MM-DD-<id>.json` con el formato descrito al inicio de `kit/make_video.py`:
    - En español peruano, cercano y alegre. Gancho de 1 a 3 líneas cortas que despierte curiosidad.
