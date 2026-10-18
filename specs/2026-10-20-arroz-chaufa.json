@@ -1,0 +1,23 @@
+{
+  "seed": 20,
+  "hook": ["¿Te sobró", "arroz de ayer?"],
+  "hook_sub": "No lo botes: conviértelo en un chaufa 🔥",
+  "emojis": ["🍚","🥚","🧅","🍳","🥢","🍗","🌶️","🍋"],
+  "kicker": "RECETA PERUANA",
+  "dish_emoji": "🍚",
+  "title": "Arroz chaufa casero",
+  "subtitle": "El clásico chifa, listo en 25 minutos",
+  "meta": ["⏱ 25 min", "👥 2 personas", "⭐ Media"],
+  "steps_label": "PASO",
+  "steps": [
+    {"emoji":"🍗","text":"Saltea 150 g de pollo en cubos a fuego máximo","note":"Resérvalo cuando esté dorado y bien cocido"},
+    {"emoji":"🥚","text":"Haz una tortilla fina con 2 huevos","note":"Córtala en tiritas"},
+    {"emoji":"🍚","text":"Saltea 300 g de arroz frío con sillao","note":"El arroz del día anterior queda más suelto"},
+    {"emoji":"🧅","text":"Mezcla todo y termina con cebolla china","note":"¡A servir!"}
+  ],
+  "nubi_says": "¡El secreto es el wok bien caliente! 🔥",
+  "xp": 165,
+  "reward_title": "Cocínalo en Nubi",
+  "reward_text": "Sigue los pasos, toma la foto de tu plato y sube de nivel como chef",
+  "cta": "👉 Pruébala gratis · link en la bio"
+}
