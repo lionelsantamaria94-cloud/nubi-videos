@@ -1,0 +1,23 @@
+{
+  "seed": 299,
+  "hook": ["¿Huancaína", "sin complicarte?"],
+  "hook_sub": "Cremosita y lista en 30 minutos 💛",
+  "emojis": ["🥔","🌶️","🧀","🥚","🫒","🥬","🥛"],
+  "kicker": "RECETA PERUANA",
+  "dish_emoji": "🥔",
+  "title": "Papa a la huancaína",
+  "subtitle": "El clásico de entrada, fácil y rendidor",
+  "meta": ["⏱ 30 min", "👥 4 personas", "⭐ Fácil"],
+  "steps_label": "PASO",
+  "steps": [
+    {"emoji":"🥔","text":"Sancocha 1 kg de papa amarilla con sal","note":"Pélala y córtala en rodajas gruesas"},
+    {"emoji":"🌶️","text":"Saltea 4 ajíes amarillos sin venas ni pepas","note":"Con un chorrito de aceite y media cebolla"},
+    {"emoji":"🧀","text":"Licúa el ají con 200 g de queso fresco","note":"Agrega 4 galletas de soda y ½ taza de leche"},
+    {"emoji":"🥚","text":"Baña las papas y decora con huevo duro","note":"Una aceituna y hojitas de lechuga ¡y listo!"}
+  ],
+  "nubi_says": "¿Muy espesa? Échale un chorrito más de leche 😉",
+  "xp": 110,
+  "reward_title": "Cocínalo en Nubi",
+  "reward_text": "Sigue los pasos, toma la foto de tu plato y sube de nivel como chef",
+  "cta": "👉 Pruébala gratis · link en la bio"
+}
