@@ -1,0 +1,23 @@
+{
+  "seed": 301,
+  "hook": ["¿Tu arroz sale", "pegoteado?", "4 trucos y listo"],
+  "hook_sub": "Graneadito como el de la abuela 🍚",
+  "emojis": ["🍚","🧄","🧂","🫒","🍲","⏱️"],
+  "kicker": "TRUCO DE COCINA",
+  "dish_emoji": "🍚",
+  "title": "Arroz graneado perfecto",
+  "subtitle": "4 trucos que nunca fallan",
+  "meta": ["⏱ 25 min", "👥 4 personas", "⭐ Fácil"],
+  "steps_label": "TRUCO",
+  "steps": [
+    {"emoji":"💧","text":"Lava 2 tazas de arroz hasta que el agua salga clara","note":"Así le quitas el almidón que lo pega"},
+    {"emoji":"🧄","text":"Dora el arroz con ajo y aceite antes del agua","note":"2 minutos moviendo, a fuego medio"},
+    {"emoji":"🍲","text":"Usa 2½ tazas de agua caliente con sal","note":"Hierve destapado hasta que se seque"},
+    {"emoji":"⏱️","text":"Tapa, fuego mínimo 15 min y no lo muevas","note":"Luego suéltalo con un tenedor"}
+  ],
+  "nubi_says": "¡La tapa no se levanta, aunque te gane la curiosidad! 😉",
+  "xp": 90,
+  "reward_title": "Cocínalo en Nubi",
+  "reward_text": "Sigue los pasos, toma la foto de tu plato y sube de nivel como chef",
+  "cta": "👉 Pruébala gratis · link en la bio"
+}
