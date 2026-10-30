@@ -1,0 +1,24 @@
+{
+  "seed": 303,
+  "hook": ["¿Tu lomo saltado", "sale aguado?", "El secreto es el fuego"],
+  "hook_sub": "Jugoso y con sabor a wok 🔥",
+  "emojis": ["🥩","🧅","🍅","🌶️","🍟","🍚","🔥"],
+  "kicker": "RECETA PERUANA",
+  "dish_emoji": "🥩",
+  "title": "Lomo saltado en casa",
+  "subtitle": "Fuego alto y en tandas",
+  "meta": ["⏱ 30 min", "👥 3 personas", "⭐ Media"],
+  "steps_label": "PASO",
+  "steps": [
+    {"emoji":"🥩","text":"Corta 500 g de lomo en tiras y sazona con sal","note":"Pimienta y un toque de comino"},
+    {"emoji":"🔥","text":"Saltea la carne en tandas a fuego alto","note":"Hasta que esté bien cocida y dorada"},
+    {"emoji":"🧅","text":"Saltea 1 cebolla roja en gajos y 2 tomates","note":"Solo 1 minuto, que queden crocantes"},
+    {"emoji":"🌶️","text":"Junta todo con ají amarillo y 2 cdas de sillao","note":"Un chorrito de vinagre y culantro"},
+    {"emoji":"🍟","text":"Sirve con papas fritas y arroz blanco","note":"¡Y a disfrutar en familia!"}
+  ],
+  "nubi_says": "¡Si llenas la sartén, la carne se sancocha! Mejor en tandas 😉",
+  "xp": 160,
+  "reward_title": "Cocínalo en Nubi",
+  "reward_text": "Sigue los pasos, toma la foto de tu plato y sube de nivel como chef",
+  "cta": "👉 Pruébala gratis · link en la bio"
+}
