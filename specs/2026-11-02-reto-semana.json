@@ -1,0 +1,23 @@
+{
+  "seed": 306,
+  "hook": ["¿Te animas?", "3 platos en 7 días", "y subes de nivel"],
+  "hook_sub": "El Reto Nubi de esta semana 🏆",
+  "emojis": ["🏆","🍳","🍚","🥔","🍗","⭐"],
+  "kicker": "RETO NUBI",
+  "dish_emoji": "🏆",
+  "title": "Reto de la semana",
+  "subtitle": "Cocina 3 platos y gana XP",
+  "meta": ["📅 7 días", "🍽 3 platos", "⭐ Fácil"],
+  "steps_label": "PASO",
+  "steps": [
+    {"emoji":"🍳","text":"Día 1: tortilla de verduras con 3 huevos","note":"Cocina el huevo hasta que cuaje bien"},
+    {"emoji":"🍚","text":"Día 3: arroz chaufa con 2 tazas de arroz de ayer","note":"Wok bien caliente y en tandas"},
+    {"emoji":"🍗","text":"Día 5: pollo saltado con 400 g de pechuga","note":"Que no quede rosado por dentro"},
+    {"emoji":"📸","text":"Toma la foto de cada plato en Nubi","note":"Cada foto suma XP a tu perfil"}
+  ],
+  "nubi_says": "¡Comenta cuál cocinas primero! 👇",
+  "xp": 200,
+  "reward_title": "Acepta el reto en Nubi",
+  "reward_text": "Cocina los 3 platos, sube tus fotos y sube de nivel como chef",
+  "cta": "👉 Pruébala gratis · link en la bio"
+}
