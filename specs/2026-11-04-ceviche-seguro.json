@@ -1,0 +1,24 @@
+{
+  "seed": 308,
+  "hook": ["¿Ceviche en casa?", "Todo empieza", "con el pescado"],
+  "hook_sub": "Fresco, seguro y bien limeño 🍋",
+  "emojis": ["🐟","🍋","🧅","🌶️","🌽","🍠","🥬"],
+  "kicker": "RECETA PERUANA",
+  "dish_emoji": "🐟",
+  "title": "Ceviche clásico",
+  "subtitle": "Y cómo elegir pescado seguro",
+  "meta": ["⏱ 25 min", "👥 3 personas", "⭐ Media"],
+  "steps_label": "PASO",
+  "steps": [
+    {"emoji":"🐟","text":"Compra 500 g de pescado apto para comer crudo","note":"De un proveedor confiable y bien frío"},
+    {"emoji":"👀","text":"Fíjate: ojos brillantes y carne firme","note":"Olor a mar, nunca fuerte ni raro"},
+    {"emoji":"🔪","text":"Córtalo en cubos y sazona con sal y ají limo","note":"Mantén todo en frío hasta servir"},
+    {"emoji":"🍋","text":"Agrega el jugo de 12 limones y 1 cebolla roja","note":"Mezcla suave 2 a 3 minutos"},
+    {"emoji":"🍠","text":"Sirve al toque con camote, choclo y lechuga","note":"¡Y a disfrutar bien fresquito!"}
+  ],
+  "nubi_says": "¡El limón no cocina el pescado! Por eso tiene que ser fresco y apto para crudo 😉",
+  "xp": 170,
+  "reward_title": "Cocínalo en Nubi",
+  "reward_text": "Sigue los pasos, toma la foto de tu plato y sube de nivel como chef",
+  "cta": "👉 Pruébala gratis · link en la bio"
+}
