@@ -1,0 +1,23 @@
+{
+  "seed": 310,
+  "hook": ["¿Abres la refri", "y no sabes", "qué cocinar?"],
+  "hook_sub": "Nubi te lo resuelve en segundos 🤖",
+  "emojis": ["🥚","🥔","🍅","🧅","🍚","🍗","🥕"],
+  "kicker": "FUNCIÓN NUBI",
+  "dish_emoji": "🧺",
+  "title": "Tu despensa inteligente",
+  "subtitle": "Cocina con lo que ya tienes",
+  "meta": ["⏱ 1 min", "🧺 Lo que hay", "⭐ Fácil"],
+  "steps_label": "PASO",
+  "steps": [
+    {"emoji":"📝","text":"Escribe lo que tienes: 3 huevos, 2 papas, 1 tomate","note":"Sin listas raras, como le hablas a un amigo"},
+    {"emoji":"🤖","text":"Nubi te propone recetas peruanas al toque","note":"Por ejemplo, una tortilla de papa casera"},
+    {"emoji":"👩‍🍳","text":"Elige una y sigue los pasos con tiempos","note":"Cocina el huevo hasta que cuaje bien"},
+    {"emoji":"📸","text":"Toma la foto de tu plato y gana XP","note":"Y nada se queda olvidado en la refri"}
+  ],
+  "nubi_says": "¡Comenta qué tienes hoy en tu refri y te digo qué cocinar! 👇",
+  "xp": 120,
+  "reward_title": "Pruébalo en Nubi",
+  "reward_text": "Escribe tus ingredientes, cocina la receta y sube de nivel como chef",
+  "cta": "👉 Pruébala gratis · link en la bio"
+}
