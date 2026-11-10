@@ -1,0 +1,24 @@
+{
+  "seed": 314,
+  "hook": ["¿Extrañas los", "tallarines", "de la abuela?"],
+  "hook_sub": "Salsa roja casera, bien jugosa 🍝",
+  "emojis": ["🍝","🍅","🧅","🧄","🥕","🧀","🍗"],
+  "kicker": "RECETA PERUANA",
+  "dish_emoji": "🍝",
+  "title": "Tallarines rojos",
+  "subtitle": "Como los de la abuela",
+  "meta": ["⏱ 50 min", "👥 4 personas", "⭐ Fácil"],
+  "steps_label": "PASO",
+  "steps": [
+    {"emoji":"🍗","text":"Dora 4 presas de pollo en un poco de aceite","note":"Retíralas y reserva"},
+    {"emoji":"🧅","text":"Sofríe 1 cebolla, 2 ajos y 1 zanahoria rallada","note":"A fuego medio hasta que doren"},
+    {"emoji":"🍅","text":"Agrega 6 tomates licuados y 1 hoja de laurel","note":"Sal, pimienta y una pizca de azúcar"},
+    {"emoji":"🔥","text":"Regresa el pollo y cocina tapado 30 minutos","note":"Hasta que el pollo esté bien cocido"},
+    {"emoji":"🍝","text":"Mezcla con 500 g de tallarín al dente","note":"Termina con queso parmesano rallado"}
+  ],
+  "nubi_says": "¡La pizca de azúcar le quita lo ácido al tomate! Ese es el secreto 😉",
+  "xp": 140,
+  "reward_title": "Cocínalo en Nubi",
+  "reward_text": "Sigue los pasos, toma la foto de tu plato y sube de nivel como chef",
+  "cta": "👉 Pruébala gratis · link en la bio"
+}
