@@ -1,0 +1,23 @@
+{
+  "seed": 316,
+  "hook": ["¿Lloras cada vez", "que cortas", "cebolla?"],
+  "hook_sub": "Y que quede crocante para tu criolla 🧅",
+  "emojis": ["🧅","🔪","🧊","🍋","🧂","😭"],
+  "kicker": "TRUCO DE COCINA",
+  "dish_emoji": "🧅",
+  "title": "Cebolla sin lágrimas",
+  "subtitle": "4 trucos que nunca fallan",
+  "meta": ["⏱ 15 min", "👥 4 personas", "⭐ Fácil"],
+  "steps_label": "TRUCO",
+  "steps": [
+    {"emoji":"🧊","text":"Mete la cebolla 30 minutos a la refri","note":"Fría suelta menos lo que hace llorar"},
+    {"emoji":"🔪","text":"Usa un cuchillo bien afilado","note":"Corta limpio y no aplasta la cebolla"},
+    {"emoji":"🧅","text":"Córtala en pluma, a lo largo y bien finita","note":"Sigue las líneas de la cebolla"},
+    {"emoji":"💧","text":"Remójala 10 min en agua helada con sal","note":"Escúrrela bien: queda crocante y suave"}
+  ],
+  "nubi_says": "¡Con limón, sal y ají ya tienes tu salsa criolla! 😉",
+  "xp": 90,
+  "reward_title": "Cocínalo en Nubi",
+  "reward_text": "Sigue los pasos, toma la foto de tu plato y sube de nivel como chef",
+  "cta": "👉 Pruébala gratis · link en la bio"
+}
