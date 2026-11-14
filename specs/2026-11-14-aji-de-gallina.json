@@ -1,0 +1,24 @@
+{
+  "seed": 318,
+  "hook": ["¿Tu ají de gallina", "no sale", "cremoso?"],
+  "hook_sub": "Este es el truco de la casa 💛",
+  "emojis": ["🍗","🌶️","🧅","🍞","🥛","🥚"],
+  "kicker": "RECETA PERUANA",
+  "dish_emoji": "🍛",
+  "title": "Ají de gallina cremoso",
+  "subtitle": "Paso a paso, sin complicarte",
+  "meta": ["⏱ 60 min", "👥 4 personas", "⭐ Media"],
+  "steps_label": "PASO",
+  "steps": [
+    {"emoji":"🍗","text":"Sancocha 1 pechuga de pollo 25 min y deshiláchala","note":"Bien cocida, sin partes rosadas"},
+    {"emoji":"🍞","text":"Licúa 4 panes remojados con 1 taza de leche","note":"Guarda el caldo del pollo"},
+    {"emoji":"🧅","text":"Dora 1 cebolla, 2 ajos y 3 cdas de ají amarillo","note":"A fuego medio, 8 a 10 minutos"},
+    {"emoji":"🥘","text":"Agrega el pan y 1 taza de caldo; mueve 10 min","note":"Hasta que espese y quede cremoso"},
+    {"emoji":"🍚","text":"Suma el pollo y sirve con arroz, papa y huevo","note":"Corona con una aceituna"}
+  ],
+  "nubi_says": "¡Mueve sin parar para que no se pegue! 😉",
+  "xp": 160,
+  "reward_title": "Cocínalo en Nubi",
+  "reward_text": "Sigue los pasos, toma la foto de tu plato y sube de nivel como chef",
+  "cta": "👉 Pruébala gratis · link en la bio"
+}
