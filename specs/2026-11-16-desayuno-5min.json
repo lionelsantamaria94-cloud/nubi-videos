@@ -1,0 +1,23 @@
+{
+  "seed": 320,
+  "hook": ["¿Sin tiempo", "para desayunar?", "Hazlo en 5 min"],
+  "hook_sub": "Rico, rápido y bien peruano 💛",
+  "emojis": ["🥑","🍞","🥚","🍋","🧂","☕"],
+  "kicker": "DESAYUNO PERUANO",
+  "dish_emoji": "🥑",
+  "title": "Pan con palta y huevo",
+  "subtitle": "Listo en 5 minutos",
+  "meta": ["⏱ 5 min", "👥 1 persona", "⭐ Fácil"],
+  "steps_label": "PASO",
+  "steps": [
+    {"emoji":"🍞","text":"Tuesta 1 pan francés partido en dos","note":"En sartén o tostadora, 2 minutos"},
+    {"emoji":"🥑","text":"Machaca 1/2 palta con sal y gotitas de limón","note":"El limón evita que se ponga negra"},
+    {"emoji":"🥚","text":"Fríe 1 huevo a fuego medio hasta que cuaje","note":"Clara y yema bien cocidas"},
+    {"emoji":"🥪","text":"Unta la palta, pon el huevo y una pizca de pimienta","note":"Acompaña con tu café o té"}
+  ],
+  "nubi_says": "¡Tapa la sartén y el huevo se cocina parejito! 😉",
+  "xp": 90,
+  "reward_title": "Cocínalo en Nubi",
+  "reward_text": "Sigue los pasos, toma la foto de tu plato y sube de nivel como chef",
+  "cta": "👉 Pruébala gratis · link en la bio"
+}
