@@ -1,0 +1,24 @@
+{
+  "seed": 324,
+  "hook": ["¿Y si cocinar", "fuera como", "un videojuego?"],
+  "hook_sub": "Cada plato que cocinas te da XP 🎮",
+  "emojis": ["📸","⭐","🍳","🏆","🍲","🔥","🥘"],
+  "kicker": "FUNCIÓN NUBI",
+  "dish_emoji": "📸",
+  "title": "Cocina, foto y XP",
+  "subtitle": "Así subes de nivel como chef",
+  "meta": ["⏱ 1 min", "📸 Una foto", "⭐ Fácil"],
+  "steps_label": "PASO",
+  "steps": [
+    {"emoji":"📖","text":"Elige una receta en Nubi, como un arroz chaufa","note":"Hay platos para cada nivel"},
+    {"emoji":"👩‍🍳","text":"Cocínala siguiendo los pasos y los tiempos","note":"El pollo, siempre bien cocido"},
+    {"emoji":"📸","text":"Toma la foto de tu plato terminado","note":"Con buena luz se ve más rico"},
+    {"emoji":"⭐","text":"Nubi revisa tu foto y te da XP al toque","note":"Más difícil la receta, más XP"},
+    {"emoji":"🏆","text":"Junta XP y sube de Aprendiz a Leyenda","note":"¿Hasta qué nivel llegarás?"}
+  ],
+  "nubi_says": "¡Comenta qué plato cocinarías primero para ganar XP! 👇",
+  "xp": 110,
+  "reward_title": "Pruébalo en Nubi",
+  "reward_text": "Cocina, toma la foto de tu plato y sube de nivel como chef",
+  "cta": "👉 Pruébala gratis · link en la bio"
+}
