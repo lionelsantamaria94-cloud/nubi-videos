@@ -1,0 +1,24 @@
+{
+  "seed": 326,
+  "hook": ["¿Causa limeña", "en casa?", "Más fácil de lo que crees"],
+  "hook_sub": "Amarilla, cremosa y bien rellenita 💛",
+  "emojis": ["🥔","🍋","🌶️","🥑","🐔","🥚","🫒"],
+  "kicker": "RECETA PERUANA",
+  "dish_emoji": "🥔",
+  "title": "Causa limeña rellena",
+  "subtitle": "Perfecta para principiantes",
+  "meta": ["⏱ 40 min", "👥 4 personas", "⭐ Fácil"],
+  "steps_label": "PASO",
+  "steps": [
+    {"emoji":"🥔","text":"Sancocha 1 kg de papa amarilla y prénsala tibia","note":"Que no quede ni un grumo"},
+    {"emoji":"🍋","text":"Mezcla con 3 cdas de ají amarillo, 3 limones y sal","note":"Agrega aceite hasta que esté suave"},
+    {"emoji":"🐔","text":"Mezcla 1 pechuga sancochada y deshilachada con mayonesa","note":"El pollo, siempre bien cocido"},
+    {"emoji":"🥑","text":"Arma capas: papa, pollo, palta y otra de papa","note":"Usa un molde o un táper"},
+    {"emoji":"🥚","text":"Decora con huevo duro y aceituna, y enfría 30 min","note":"Fría se corta más bonito"}
+  ],
+  "nubi_says": "¡Comenta si tu causa es de pollo o de atún! 👇",
+  "xp": 140,
+  "reward_title": "Cocínalo en Nubi",
+  "reward_text": "Sigue los pasos, toma la foto de tu causa y sube de nivel como chef",
+  "cta": "👉 Pruébala gratis · link en la bio"
+}
