@@ -1,0 +1,23 @@
+{
+  "seed": 328,
+  "hook": ["¿Todavía botas", "la comida", "que te sobra?"],
+  "hook_sub": "Dale una segunda vida y ahorra 💚",
+  "emojis": ["🍚","🍗","🥔","🧊","🍳","🥪"],
+  "kicker": "TRUCO DE COCINA",
+  "dish_emoji": "♻️",
+  "title": "Segunda vida a tus sobras",
+  "subtitle": "4 ideas para no botar comida",
+  "meta": ["⏱ 10 min", "👥 Toda la familia", "⭐ Fácil"],
+  "steps_label": "TRUCO",
+  "steps": [
+    {"emoji":"🧊","text":"Guarda las sobras en la refri antes de 2 horas","note":"En táper bien tapado y cómelas en 3 días"},
+    {"emoji":"🍚","text":"Arroz de ayer: conviértelo en chaufa o tacu tacu","note":"Recaliéntalo hasta que humee bien"},
+    {"emoji":"🍗","text":"Pollo sobrante: desmenúzalo para un sánguche","note":"Con mayonesa, lechuga y tomate"},
+    {"emoji":"🥔","text":"Papas sancochadas: dóralas en sartén con cebolla","note":"Quedan crocantes para el desayuno"}
+  ],
+  "nubi_says": "¡Recalienta solo lo que vas a comer, una sola vez! 😉",
+  "xp": 90,
+  "reward_title": "Cocínalo en Nubi",
+  "reward_text": "Sigue los pasos, toma la foto de tu plato y sube de nivel como chef",
+  "cta": "👉 Pruébala gratis · link en la bio"
+}
