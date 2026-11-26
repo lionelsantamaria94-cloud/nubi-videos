@@ -1,0 +1,24 @@
+{
+  "seed": 330,
+  "hook": ["¿Antojo de", "un almuerzo", "de domingo?"],
+  "hook_sub": "Arroz con pollo verde, como en casa 💚",
+  "emojis": ["🍗","🍚","🌿","🫑","🥕","🧅"],
+  "kicker": "RECETA PERUANA",
+  "dish_emoji": "🍗",
+  "title": "Arroz con pollo verde",
+  "subtitle": "El clásico del domingo",
+  "meta": ["⏱ 60 min", "👥 4 personas", "⭐ Media"],
+  "steps_label": "PASO",
+  "steps": [
+    {"emoji":"🍗","text":"Dora 4 presas de pollo en una olla con aceite","note":"Por ambos lados y resérvalas"},
+    {"emoji":"🧅","text":"Sofríe 1 cebolla, 3 dientes de ajo y ají amarillo","note":"A fuego medio hasta que dore"},
+    {"emoji":"🌿","text":"Agrega 1 atado de culantro licuado con agua","note":"Cocina 5 minutos y sazona con sal"},
+    {"emoji":"🍗","text":"Vuelve el pollo con 1 l de caldo y cocina 25 min","note":"Hasta que esté bien cocido por dentro"},
+    {"emoji":"🍚","text":"Suma 2 tazas de arroz, arvejas y zanahoria","note":"Tapa a fuego bajo unos 20 minutos"}
+  ],
+  "nubi_says": "¡Licúa el culantro sin tallos duros y queda bien verde! 😉",
+  "xp": 160,
+  "reward_title": "Cocínalo en Nubi",
+  "reward_text": "Sigue los pasos, toma la foto de tu plato y sube de nivel como chef",
+  "cta": "👉 Pruébala gratis · link en la bio"
+}
